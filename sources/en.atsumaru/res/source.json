@@ -1,0 +1,12 @@
+{
+	"info": {
+		"id": "en.atsumaru",
+		"name": "Atsumaru",
+		"version": 1,
+		"url": "https://atsu.moe",
+		"contentRating": 1,
+		"languages": [
+			"en"
+		]
+	}
+}
